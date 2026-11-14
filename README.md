@@ -82,3 +82,7 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 测试临时文件只写入本示例目录，并在测试结束时清理；`-B` 避免生成字节码缓存。
 
 示例为通用模板，不含任何实际项目信息
+
+## 系列文章
+
+1. [让 Claude Code 当经理、Codex 当工程师：152 张任务卡之后我学到的](articles/01-claude-code-manager-codex-engineer.md)
