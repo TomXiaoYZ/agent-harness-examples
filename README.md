@@ -86,4 +86,4 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 ## 系列文章
 
 1. [让 Claude Code 当经理、Codex 当工程师：152 张任务卡之后我学到的](articles/01-claude-code-manager-codex-engineer.md)（[掘金版](https://juejin.cn/post/7707644445541826569)）
-2. [写进说明的规则会被忘，写进钩子的不会：但钩子也会冤枉人](articles/02-hooks-over-instructions.md)
+2. [写进说明的规则会被忘，写进钩子的不会：但钩子也会冤枉人](articles/02-hooks-over-instructions.md)（[掘金版](https://juejin.cn/post/7708969242175782938)）
