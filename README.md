@@ -92,4 +92,4 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 
 ### English
 
-1. [Claude Code plans, Codex builds: what 152 task cards taught me about governing two coding agents](articles/en/01-claude-code-plans-codex-builds.md)
+1. [Claude Code plans, Codex builds: what 152 task cards taught me about governing two coding agents](articles/en/01-claude-code-plans-codex-builds.md) ([DEV](https://dev.to/tomxiaoyz/claude-code-plans-codex-builds-what-152-task-cards-taught-me-about-governing-two-coding-agents-2c2k))
