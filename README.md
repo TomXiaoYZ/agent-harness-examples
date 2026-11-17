@@ -89,3 +89,7 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 2. [写进说明的规则会被忘，写进钩子的不会：但钩子也会冤枉人](articles/02-hooks-over-instructions.md)（[掘金版](https://juejin.cn/post/7708969242175782938)）
 3. [Codex 派出去的线程，为什么在 App 侧栏里找不到：7 根探针的实测](articles/03-thread-visibility-probes.md)（[掘金版](https://juejin.cn/post/7708805885188259867)）
 4. [环境是借的：27 个废弃 worktree，和每份 5 GB 的数据副本](articles/04-borrowed-environments.md)（[掘金版](https://juejin.cn/post/7709007047563526195)）
+
+### English
+
+1. [Claude Code plans, Codex builds: what 152 task cards taught me about governing two coding agents](articles/en/01-claude-code-plans-codex-builds.md)
