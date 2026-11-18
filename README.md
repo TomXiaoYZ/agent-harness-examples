@@ -90,10 +90,10 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 3. [Codex 派出去的线程，为什么在 App 侧栏里找不到：7 根探针的实测](articles/03-thread-visibility-probes.md)（[掘金版](https://juejin.cn/post/7708805885188259867)）
 4. [环境是借的：27 个废弃 worktree，和每份 5 GB 的数据副本](articles/04-borrowed-environments.md)（[掘金版](https://juejin.cn/post/7709007047563526195)）
 5. [浏览器步骤别派给 Codex：同一张卡三轮 blocked，拆开后一轮通过](articles/05-browser-steps-stay-home.md)（[掘金版](https://juejin.cn/post/7708975511029514291)）
-6. [“一张卡一个上下文”写了两周没人守：一天约 4.2 亿 token，守卫第二天又被绕过](articles/06-one-card-one-context.md)
+6. [“一张卡一个上下文”写了两周没人守：一天约 4.2 亿 token，守卫第二天又被绕过](articles/06-one-card-one-context.md)（[掘金版](https://juejin.cn/post/7709376252621127707)）
 
 ### English
 
 1. [Claude Code plans, Codex builds: what 152 task cards taught me about governing two coding agents](articles/en/01-claude-code-plans-codex-builds.md) ([DEV](https://dev.to/tomxiaoyz/claude-code-plans-codex-builds-what-152-task-cards-taught-me-about-governing-two-coding-agents-2c2k))
 5. [Keep browser steps away from your coding agent: three blocked rounds, then one clean pass](articles/en/05-keep-browser-steps-away.md) ([DEV](https://dev.to/tomxiaoyz/keep-browser-steps-away-from-your-coding-agent-three-blocked-rounds-then-one-clean-pass-4g12))
-6. ["One card, one context" sat in the docs for two weeks. Then one day cost ~420M tokens, and the guard got bypassed the day after](articles/en/06-one-card-one-context.md)
+6. ["One card, one context" sat in the docs for two weeks. Then one day cost ~420M tokens, and the guard got bypassed the day after](articles/en/06-one-card-one-context.md) ([DEV](https://dev.to/tomxiaoyz/one-card-one-context-sat-in-the-docs-for-two-weeks-then-one-day-cost-420m-tokens-and-the-35d9))
