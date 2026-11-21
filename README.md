@@ -93,7 +93,7 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 6. [“一张卡一个上下文”写了两周没人守：一天约 4.2 亿 token，守卫第二天又被绕过](articles/06-one-card-one-context.md)（[掘金版](https://juejin.cn/post/7709376252621127707)）
 7. [看板说 40 张卡在等合入，其中 34 张的工作树早就没了：状态要从证据推导](articles/07-status-board-false-waiting.md)（[掘金版](https://juejin.cn/post/7709755322559545354)）
 8. [提醒钩子装上之后，单次调用的上下文还是涨到 69 万：上限要写进默认值，不能只靠提示](articles/08-reminders-vs-defaults.md)（[掘金版](https://juejin.cn/post/7710412551134068774)）
-9. [CI 连红 6 天，19 个 PR 照样合入：45 项失败一项没变过，红灯就成了背景色](articles/09-always-red-ci.md)
+9. [CI 连红 6 天，19 个 PR 照样合入：45 项失败一项没变过，红灯就成了背景色](articles/09-always-red-ci.md)（[掘金版](https://juejin.cn/post/7710506540624920626)）
 
 ### English
 
@@ -102,4 +102,4 @@ python3 -B scripts/check_card.py docs/tasks/example.md --max-bytes 12288
 6. ["One card, one context" sat in the docs for two weeks. Then one day cost ~420M tokens, and the guard got bypassed the day after](articles/en/06-one-card-one-context.md) ([DEV](https://dev.to/tomxiaoyz/one-card-one-context-sat-in-the-docs-for-two-weeks-then-one-day-cost-420m-tokens-and-the-35d9))
 7. [My agent status board said 40 cards were waiting to be merged. 34 of them had no worktree left](articles/en/07-status-board-false-waiting.md) ([DEV](https://dev.to/tomxiaoyz/my-agent-status-board-said-40-cards-were-waiting-to-be-merged-34-of-them-had-no-worktree-left-56n1))
 8. [I added a "your session is getting long" hook. Context still hit 689K tokens per call. Caps belong in defaults, not reminders](articles/en/08-reminders-vs-defaults.md) ([DEV](https://dev.to/tomxiaoyz/i-added-a-your-session-is-getting-long-hook-context-still-hit-689k-tokens-per-call-caps-belong-klh))
-9. [My CI was red for 6 days and 19 PRs got merged anyway. The same 45 tests failed every time, so red became the background color](articles/en/09-always-red-ci.md)
+9. [My CI was red for 6 days and 19 PRs got merged anyway. The same 45 tests failed every time, so red became the background color](articles/en/09-always-red-ci.md) ([DEV](https://dev.to/tomxiaoyz/my-ci-was-red-for-6-days-and-19-prs-got-merged-anyway-the-same-45-tests-failed-every-time-so-red-4bki))
